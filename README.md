@@ -15,19 +15,9 @@ O invideo AI foi essencial para a criação do vídeo pois por ele foi possível
 ## 🚀 Resultados
 Este vídeo traz ao espectador a criação de um ambiente mais inclusivo e inspirador, a visibilidade das contribuições femininas e a conscientização para a importância da diversidade no setor tecnológico.
 
+LINK PARA O VÍDEO: https://ai.invideo.io/watch/lHPMxzZXNws
 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Desafio incrível para colocar a "mão na massa" e ver o quanto a IA pode nos ajudar em várias questões do nosso dia a dia e no trabalho.
 
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
